@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/meeting-1/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/test/meeting-1/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
