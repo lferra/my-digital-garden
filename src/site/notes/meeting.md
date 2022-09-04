@@ -3,7 +3,7 @@
 ---
 
 
-# {{title}}
+#Titolo
 
 Date:
 Attendees:
