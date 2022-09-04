@@ -2,28 +2,21 @@
 {"dg-publish":true,"permalink":"/0-a-13-1-meeting/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# {{title}}
 
-# 🚀 Meeting -> 
+Date: {{date:MMM d, YYYY}}
+Attendees:
 
 ---
-## 📢 - Project information
-Created::. {{date: DD-MM-YYYY}} {{time}}
-Deadline:: 
-Hibernating::. 
-Completion date expected:: 
-Completed:: 
-Type:: 
-Tags:: 
-Platform:: 
-Meeting Members :: 
-# 📅 - Agenda
+
+# Goals / agenda
 1. 
-# 🎯 - Goals
-1. 
-# 📝 - Discussion notes
+
+# Discussion notes
 - 
 
-# 💠 - Action items
+# Action items
 - [ ] Meeting Notes Distributed to the Team
 - [ ] Tasks & Projects Completed, Processed or Delegated
 - [ ] Key Dates Completed or Scheduled
+```
