@@ -3,7 +3,7 @@
 ---
 
 
-#Titolo
+# Titolo
 
 Date:
 Attendees:
