@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/0-a-13-1-meeting/","tags":["Meeting/","gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+
+# 🚀 Meeting -> 
+
+---
+## 📢 - Project information
+Created::. {{date: DD-MM-YYYY}} {{time}}
+Deadline:: 
+Hibernating::. 
+Completion date expected:: 
+Completed:: 
+Type:: 
+Tags:: 
+Platform:: 
+Meeting Members :: 
+# 📅 - Agenda
+1. 
+# 🎯 - Goals
+1. 
+# 📝 - Discussion notes
+- 
+
+# 💠 - Action items
+- [ ] Meeting Notes Distributed to the Team
+- [ ] Tasks & Projects Completed, Processed or Delegated
+- [ ] Key Dates Completed or Scheduled
