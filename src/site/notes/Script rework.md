@@ -16,6 +16,11 @@
 
 ## Directory
 
-- shl
-- log
-- bin
+### shl
+Contains scripts
+
+### log
+Contains logs
+
+### bin
+Contains utilities
