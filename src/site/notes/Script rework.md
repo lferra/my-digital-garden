@@ -8,3 +8,14 @@
 1. Every Windows server has to have Cygwin installed
 2. All the scheduling is triggered by Crontab / SSH
 3. Ideally all the activities (log browsing, script amendment, etc.), are done via SSH
+
+
+## Cygwin
+
+1. Install perl package (dependencies perl-base and perl-autobase will be selected automatically)
+
+## Directory
+
+- shl
+- log
+- bin
