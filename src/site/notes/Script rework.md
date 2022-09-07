@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/script-rework/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+[[Excalidraw/Drawing 2022-09-07 21.44.27.excalidraw|Drawing 2022-09-07 21.44.27.excalidraw]]
 
 ## Assumptions
 
