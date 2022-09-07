@@ -24,3 +24,5 @@ Contains logs
 
 ### bin
 Contains utilities
+
+[[Excalidraw/Drawing 2022-09-07 01.55.20.excalidraw|Drawing 2022-09-07 01.55.20.excalidraw]]
