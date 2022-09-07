@@ -31,15 +31,3 @@ Contains logs, with separated log_acq and log_dsp subdirectories. Each subdirect
 
 ### bin
 Contains utilities
-
-```ad-note
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
-```
-
-- test
-	- list
-	- list
-- list
-	- list
-	- test
-	- list
