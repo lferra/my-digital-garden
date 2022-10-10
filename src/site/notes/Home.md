@@ -7,3 +7,4 @@
 
 [[Untitled Kanban|Untitled Kanban]]
 
+[[Gentoo|Gentoo]]
