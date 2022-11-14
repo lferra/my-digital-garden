@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gentoo/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/gentoo/"}
 ---
 
 
@@ -7,6 +7,12 @@ Some env variables overrides
 /etc/X11/xinit/xinitrc.d
 /etc/X11/xinit/xinitrc.d/61-cadence-session-inject.sh
 
+```shell
+export LADSPA_PATH="$LADSPA_PATH:`$INSTALL_PREFIX/bin/cadence-session-start --printLADSPA_PATH`"
+export DSSI_PATH="$DSSI_PATH:`$INSTALL_PREFIX/bin/cadence-session-start --printDSSI_PATH`"
+export LV2_PATH="$LV2_PATH:`$INSTALL_PREFIX/bin/cadence-session-start --printLV2_PATH`"
+export VST_PATH="$VST_PATH:`$INSTALL_PREFIX/bin/cadence-session-start --printVST_PATH`"
+```
 
 Environment variables x user
 ~/.config/environment.d/99-xdg-ninja.conf
