@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/home/","tags":"gardenEntry"}
 ---
 
 
-[[Script rework|Script rework]]
-
-[[Gentoo|Gentoo]]
+[[Gentoo\|Gentoo]]
 
 test img
 
