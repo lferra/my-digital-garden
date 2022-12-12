@@ -64,9 +64,8 @@ Result after setting all the permissions:
 $ ls -Alh --time-style=+"" /wls/maestro/INTERF
 
 drwxrwsr-x+ 2 spazio sapdata 2.4M  BKP
-drwxrwsr-x   2 spazio sapdata 4.0K   IN
-drwxrwsr-x   2 spazio sapdata 240K  OUT
-drwxrwsr-x   2 spazio sapdata 4.0K   STOR
-drwxrwsr-x   2 spazio sapdata 4.0K   WRK
+drwxrwsr-x  2 spazio sapdata 4.0K  IN
+drwxrwsr-x  2 spazio sapdata 240K  OUT
+drwxrwsr-x  2 spazio sapdata 4.0K  STOR
+drwxrwsr-x  2 spazio sapdata 4.0K  WRK
 ```
-``
