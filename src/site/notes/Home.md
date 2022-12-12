@@ -4,6 +4,7 @@
 
 
 [[Gentoo\|Gentoo]]
+[[Permissions\|Permissions]]
 
 test img
 
