@@ -52,7 +52,7 @@ $ chgrp -R sapdata /wls/maestro/INTERF
 $ chown -R g+s /wls/maestro/INTERF
 ```
 
-3. Depending also on the umask settings of the users, if ACLs are available it could be useful to set an explicit default ACL, in order to have all the objects created inside a specific directory tree to inherit the "rw" permission for the group. This because sometimes the default umask set for a user do not enforce read/write permission on the group, which in this case is paramount since it's the practical way with which files can be shared between different users. In the below example this is enforced only for the archive directory, but it can be extended to the other as well.
+3. Depending also on the umask settings of the users, and if ACLs are available, it could be useful to set an explicit default ACL, in order to have all the newly objects created inside a specific directory tree to inherit the "rw" permission for the group. This because sometimes the default umask set for a specific user does not enforce read/write permission on the group **for the newly created files**, which instead is paramount since it's the practical way with which files can be shared between different users. In the below example this is applied only to the archive directory, but it can be extended to the other directories as well.
 
 ```shell
 $ setfacl -R -m -d g:sapdata:rw BKP
