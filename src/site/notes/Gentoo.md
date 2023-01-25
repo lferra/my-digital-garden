@@ -22,3 +22,10 @@ LightShaders
 -- Installing: /usr/lib64/qt5/plugins/kwin/effects/plugins/kwin4_effect_lightlyshaders.so
 -- Installing: /usr/share/kwin/shaders/1.40/lightlyshaders.frag
 -- Installing: /usr/lib64/plugins/kwin/effects/configs/kwin4_lightlyshaders_config.so
+
+# Plasma
+
+Issues with widgets:
+~/.config/plasma-org.kde.plasma.desktop-appletsrc
+
+kquitapp5 plasmashell; kstart5 plasmashell
