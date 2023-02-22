@@ -5,7 +5,7 @@
 
 [[Gentoo\|Gentoo]]
 
-test img
+test
 
 PNG:
 ![Drawing 2022-09-28 10.13.45.excalidraw.png](/img/user/Excalidraw/Drawing%202022-09-28%2010.13.45.excalidraw.png)
