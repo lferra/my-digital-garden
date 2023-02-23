@@ -6,6 +6,7 @@
 [[Gentoo\|Gentoo]]
 
 testt
+[[Excalidraw/Drawing 2023-02-23 00.54.39.excalidraw\|Drawing 2023-02-23 00.54.39.excalidraw]]
 
 PNG:
 ![Drawing 2023-02-23 00.54.39.excalidraw.png](/img/user/Excalidraw/Drawing%202023-02-23%2000.54.39.excalidraw.png)
