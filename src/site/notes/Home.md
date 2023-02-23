@@ -5,4 +5,4 @@
 
 [[Gentoo\|Gentoo]]
 
-![](/img/user/Excalidraw/Home 2023-02-24 00.15.21.excalidraw.png)
+![Drawing 2023-02-24 00.19.34.excalidraw.dark.png](/img/user/Excalidraw/Drawing%202023-02-24%2000.19.34.excalidraw.dark.png)
