@@ -3,7 +3,5 @@
 ---
 
 
-testt
-ttt
-[[Excalidraw/Drawing 2023-03-08 23.18.41.excalidraw\|Drawing 2023-03-08 23.18.41.excalidraw]]
-![Drawing 2023-03-08 23.18.41.excalidraw.png](/img/user/Excalidraw/Drawing%202023-03-08%2023.18.41.excalidraw.png)
+blah blah blah
+![Home 2023-03-08 23.44.07.excalidraw.png](/img/user/Excalidraw/Home%202023-03-08%2023.44.07.excalidraw.png)
