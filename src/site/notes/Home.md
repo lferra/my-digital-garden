@@ -6,7 +6,7 @@
 aaaaaaa
 blah blah blah
 aaaaa
-cli
+clisss
 
 SVG
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 162 148.455078125" width="162" height="148.455078125" filter="invert(93%) hue-rotate(180deg)">
